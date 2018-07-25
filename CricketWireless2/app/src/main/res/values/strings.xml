@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">"My App"</string>
+    <string name="cricket">Cricket Wireless</string>
+    <string name="number">(817) 616-5400"</string>
+    <string name="location">921 Melbourne Rd, Hurst, TX 76053</string>
+    <string name="time">10AM-8PM</string>
+</resources>
